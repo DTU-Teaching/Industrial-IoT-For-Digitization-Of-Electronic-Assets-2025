@@ -44,10 +44,16 @@ Here's a brief overview of what you can expect:
 
 If you have any question about the code, open an issue here or email us at: 
 <p align="left">
- <b>Tomislav Dragicevic (<a href="mailto:tomdr@dtu.dk">tomdr@dtu.dk</a>)
- <br />
- <b>Alessandro Quattrociocchi (<a href="mailto:alqua@dtu.dk">alqua@dtu.dk</a>)
+   <b>Alessandro Quattrociocchi (<a href="mailto:alqua@dtu.dk">alqua@dtu.dk</a>)
+<br />
+<b>Pere Izquierdo Gómez (<a href="mailto:pizgo@dtu.dk">pizgo@dtu.dk</a>)
+<br />
+ <b>Miguel Lopez (<a href="mailto:melga@dtu.dk">melga@dtu.dk</a>)
 <br />
  <b>Jakob Schneider (<a href="mailto:jaksne@dtu.dk">jaksne@dtu.dk</a>)
 <br />
+ <b>Tomislav Dragicevic (<a href="mailto:tomdr@dtu.dk">tomdr@dtu.dk</a>)
+ <br />
+
+
 </p>
