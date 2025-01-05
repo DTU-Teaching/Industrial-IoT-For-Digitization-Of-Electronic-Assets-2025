@@ -1,4 +1,4 @@
-##  **Industrial IoT for Digitalization of Electronic Assets** Special Course 2025.
+##  **Industrial IoT for Digitalization of Electronic Assets** - DTU Special Course 2025.
                                                        
 <p style="margin-top: 100px; margin-bottom: 20px;"></p>
 
