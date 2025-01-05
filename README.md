@@ -19,26 +19,8 @@ Here's a brief overview of what you can expect:
 
 ### MODULE 0: Introduction and Setup
 - Introduction to the course.
-- Course setup, including library installation, Python setup, and environments creation. 
+- Course setup, including library installation, Python setup, and environment creation. 
 
-### MODULE 1: Networking and Data Handling
-- SSH, configuration management, public/private key authentication, Tailscale.
-- Modbus protocols, data conversion techniques, and Python scripting for practical applications using a PLC data generator.
-
-### MODULE 2: Cloud Technologies and Data Visualization
-
-- Introduction to cloud concepts, IoT Hub setup, and PostgreSQL database creation.
-- Learn about Azure functions, Grafana, and security essentials. You'll also create and deploy an Azure function and visualize data in Grafana.
-
-### MODULE 3: Digital Twins and Data-Driven Modeling
-- Digital twins, data-driven modeling, system identification, and model selection.
-- ARX models, Ordinary Least Square estimation, and automated digital twin creation using AI and Machine Learning.
-
-### MODULE 4:
-- 
-
-### MODULE 5: Real-Time Control
-- 
 
 <p style="margin-top: 60px; margin-bottom: 20px;"></p>
 
