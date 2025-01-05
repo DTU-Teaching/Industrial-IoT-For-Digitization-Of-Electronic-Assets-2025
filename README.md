@@ -14,7 +14,7 @@ Wind and Energy Systems<b> <br />
 
 ## Course Overview
 
-This course is structured into 5 modules, each focusing on different key aspects of modern technology and its applications, from communications protocols to AI & ML applied to Energy Systems. <br>
+This course is structured into modules, each focusing on different aspects of modern technology and its applications, from communications protocols to AI & ML applied to Energy Systems. <br>
 Here's a brief overview of what you can expect:
 
 ### MODULE 0: Introduction and Setup
@@ -24,7 +24,7 @@ Here's a brief overview of what you can expect:
 
 <p style="margin-top: 60px; margin-bottom: 20px;"></p>
 
-If you have any question about the code, open an issue here or email us at: 
+If you have any questions about the code, open an issue here or email us at: 
 <p align="left">
    <b>Alessandro Quattrociocchi (<a href="mailto:alqua@dtu.dk">alqua@dtu.dk</a>)
 <br />
