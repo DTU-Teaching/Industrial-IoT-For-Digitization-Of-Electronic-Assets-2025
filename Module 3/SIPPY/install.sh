@@ -11,8 +11,8 @@ echo "Activating the environment..."
 source activate $ENV_NAME
 conda install ipykernel -y
 python -m ipykernel install --user --name=$ENV_NAME
-#conda install -c conda-forge slycot -y
-pip install --no-cache-dir slycot
+conda install -c conda-forge slycot -y
+#pip install --no-cache-dir slycot
 
 echo "Installing dependencies..."
 pip install --no-cache-dir -r requirements.txt
