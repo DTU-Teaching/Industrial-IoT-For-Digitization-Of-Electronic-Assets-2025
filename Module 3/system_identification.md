@@ -7,7 +7,7 @@ The library dependencies we will be using are tricky, especially the one from SI
 
 ```bash
 cd SIPPY
-sudo bash install.sh
+bash install.sh
 ```
 However, in the case, you get some error in the building phase, don't panic, you can always use old good habits, i.e.
 
